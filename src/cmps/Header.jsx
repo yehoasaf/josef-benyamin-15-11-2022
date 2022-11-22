@@ -50,7 +50,7 @@ export function Header({ isLight, setIsLight }) {
         <AppBar position="static" color="transparent">
           <Toolbar>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              <Link to={'/'} style={titleStyle}>SVG College - Final project</Link>
+              <Link to={'/'} style={titleStyle}>Josef Binjamin - Final project</Link>
             </Typography>
             <div className="header-toggle">
               <ToggleButton
